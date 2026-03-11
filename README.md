@@ -1,5 +1,6 @@
 使用方式：
-存放在PolGS的根目录中，通过以下指令进行调用
+1、将 eval_utils.py 存放在 utils 文件夹下
+2、将 eval_metrics.py 存放在PolGS的根目录中，通过以下指令进行调用
 
 python eval_metrics.py \
     -s data/SMVP3D/david \
